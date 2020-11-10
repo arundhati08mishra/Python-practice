@@ -1,2 +1,2 @@
 # Python-practice
-Questions from different coding platforms with comments for explanation. Starting from easy ones. 
+Questions from different coding platforms with comments for explanation. One problem everyday. Starting from easy ones. 
